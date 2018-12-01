@@ -1,2 +1,0 @@
-# SpotHub
-POS system
